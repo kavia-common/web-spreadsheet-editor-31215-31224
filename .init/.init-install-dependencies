@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/web-spreadsheet-editor-31215-31224/spreadsheet_frontend"
+}
